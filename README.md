@@ -2,7 +2,7 @@
 
 **`Analista de Dados`**
 
-Me chamo Thalissa Mariana , tenho 29 anos e sou do interior de São Paulo. Concluí a faculdade de Ciência de Dados na faculdade UNIVESP.Estou fazendo especialização em Engenharia de IA e Big Data. Sou apaixonada por tecnologia e Dados. Atualmente sou Analista de Sistemas na empresa atual, resolvendo problemas de Help Desk e Totvs Protheus.Faço desenvolvimento e manutenção de views no SQL Server para consolidar dados de diversas fontes e facilitando análises de desempenho e geração de relatórios gerenciais.
+Me chamo Thalissa Mariana , tenho 29 anos e sou do interior de São Paulo. Concluí a faculdade de Ciência de Dados na UNIVESP.Estou fazendo especialização em Engenharia de IA e Big Data. Sou apaixonada por tecnologia e Dados. Atualmente sou Analista de Sistemas na empresa atual, resolvendo problemas de Help Desk e Totvs Protheus.Faço desenvolvimento e manutenção de views no SQL Server para consolidar dados de diversas fontes e facilitando análises de desempenho e geração de relatórios gerenciais.
 
 
 
