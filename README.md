@@ -2,7 +2,9 @@
 
 **`Analista de Dados`**
 
-Me chamo Thalissa Mariana , tenho 29 anos e sou do interior de São Paulo. Concluí a faculdade de Ciência de Dados na UNIVESP.Estou fazendo especialização em Engenharia de IA e Big Data. Sou apaixonada por tecnologia e Dados. Atualmente sou Analista de Sistemas na empresa atual, resolvendo problemas de Help Desk e Totvs Protheus.Faço desenvolvimento e manutenção de views no SQL Server para consolidar dados de diversas fontes e facilitando análises de desempenho e geração de relatórios gerenciais.
+Me chamo Thalissa Mariana , tenho 29 anos e sou do interior de São Paulo. Concluí a faculdade de Ciência de Dados na UNIVESP.Estou fazendo especialização em Engenharia de IA e Big Data. Sou apaixonada por tecnologia e Dados. Atualmente sou Analista de Sistemas na empresa atual, resolvendo problemas de Help Desk e Totvs Protheus.
+Faço desenvolvimento e manutenção de views no SQL Server para consolidar dados de diversas fontes e facilitando análises de desempenho e geração de relatórios gerenciais.
+<br>Meu foco é migrar para a área de Dados como Analista de Dados e trabalhar com a tecnologia que mais amo que é Inteligência Artificial.</br>
 
 
 
@@ -27,6 +29,22 @@ Me chamo Thalissa Mariana , tenho 29 anos e sou do interior de São Paulo. Concl
 
 ### 🤖 Linguagens e Tecnologias
 
+<img 
+    align="left" 
+    alt="PHOTOSHOP"
+    title="PHOTOSHOP" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="ILUSTRATOR"
+    title="ILUSTRATOR" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-line.svg" 
+/>
 <img 
     align="left" 
     alt="HTML"
@@ -62,11 +80,35 @@ Me chamo Thalissa Mariana , tenho 29 anos e sou do interior de São Paulo. Concl
 />
 <img 
     align="left" 
+    alt="PHP"
+    title="PHP" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Python" 
     title="Python"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="MYSQL" 
+    title="MYSQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="SQL"
+    title="SQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" 
 />
 
 <br/>
